@@ -1,1 +1,1 @@
-# Covid19_Dashboard
+A simple covid19 dashboard, developed using javascript AND EJS.
